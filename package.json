@@ -1,0 +1,10 @@
+{
+  "name": "Weather",
+  "version": "1.0.0",
+  "description": "Weather from YaHoo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Ilya",
+}
