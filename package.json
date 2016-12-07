@@ -1,10 +1,15 @@
 {
-  "name": "Weather",
+  "name": "weather",
   "version": "1.0.0",
-  "description": "Weather from YaHoo",
+  "description": "Weather can be not only informative, but beautiful in the same time",
   "main": "main.js",
   "scripts": {
-    "start": "electron main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IlyasVlasovGit/Weather.git"
   },
   "author": "Ilya",
+  "license": "ISC"
 }
